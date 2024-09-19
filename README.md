@@ -8,12 +8,6 @@ O Infolclore é um portal mágico que te transporta para o universo fascinante d
 
 Atrás de toda essa magia, existe uma estrutura tecnológica robusta. Utilizamos HTML para construir a base da nossa página, CSS para deixar tudo esteticamente agradável e JavaScript para criar a interatividade e realizar as buscas. Nossa base de dados é alimentada constantemente com novas lendas e informações, garantindo que você sempre encontre algo novo para explorar.
 
-**Tecnologias utilizadas:**
-
-* **Front-end:** HTML, CSS, JavaScript
-* **Back-end:** Node.js (opcional, caso tenha um back-end para gerenciar dados)
-* **Banco de dados:** MongoDB (opcional, caso utilize um banco de dados NoSQL)
-
 **Como contribuir?**
 
 Quer participar dessa aventura? Se você é um desenvolvedor, designer ou simplesmente ama o folclore brasileiro, suas contribuições são muito bem-vindas! Você pode:
