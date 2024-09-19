@@ -26,13 +26,6 @@ Quer ajudar a manter a tradição oral viva? Você pode contribuir com novas len
 
 **Observação:** Para rodar essa aplicação, você precisará ter um servidor local configurado e o arquivo `dados.js` com as informações das lendas.
 
-**Dica:** Para deixar o site ainda mais legal, você pode adicionar mais funcionalidades, como:
-
-* **Filtros:** Permitir que o usuário filtre as lendas por região, tipo de criatura ou tema.
-* **Favoritos:** Criar uma lista de lendas favoritas para o usuário.
-* **Quiz:** Fazer um quiz sobre as lendas para testar o conhecimento do usuário.
-* **Comentários:** Permitir que os usuários deixem comentários sobre as lendas.
-
 **Divirta-se explorando o mundo do folclore brasileiro!**
 
 **#folclore #lendasbrasileiras #programação #webdev #javascript**
